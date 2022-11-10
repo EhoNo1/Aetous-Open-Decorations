@@ -1,3 +1,6 @@
+# NOTICE
+This project has been archived and generally discontinued so I can focus on the [Unity version of this project](https://github.com/EhoNo1/Aetous-Open-Decorations-Unity).
+
 # Aetous-Open-Decorations
 A big library of all the decorations Aetous has made for their VR social game projects. This is a personal project for Aetous, we are not looking for 
 
