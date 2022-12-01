@@ -1,3 +1,5 @@
 *.blend1
 ./*.fbm
 *.meta
+*.prefab
+*.mat
