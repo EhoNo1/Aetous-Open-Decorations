@@ -1,6 +1,6 @@
 
 # Aetous-Open-Decorations
-A big library of all the decorations Aetous has made for their VR social game projects. Setup to use 
+A big library of all the decorations Aetous has made for their VR social game projects.
 
 # How to Use
 Clone or download the repo and save it somewhere safe.
