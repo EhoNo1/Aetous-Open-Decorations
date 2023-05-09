@@ -6,5 +6,15 @@
 
 VERSION 1
 
+c5e33140-8869-49a4-93db-5d542ed5206b:Aquatic:Aquatic
+e2da1d3d-dccb-4307-b82a-a85bf2c8c407:Art:Art
+e871a0a9-38ce-47db-9691-d26d1fa7c187:Bedding:Bedding
 23687c1c-5f45-4937-bf2d-2b72784ab4f3:City:City
+f0b67dec-7e21-4f98-93d6-23f1e8830410:Lighting:Lighting
+5fbdde09-92c9-44b1-b3fa-2465bfe99431:Plants:Plants
+85a27700-b4af-48ba-907d-39a9e411819b:Rugs:Rugs
+ca143de3-26ce-416a-ae7e-7c03bac2cbb9:Seating:Seating
+6cdba929-ce12-4140-9b39-1084ed833245:Shelving:Shelving
+e0155796-a600-4db2-8c78-200cff219b30:Structure:Structure
+a358a07b-a895-4165-8dbd-93029fc4ebf9:Technology:Technology
 0ee6ee7a-dfc6-45c1-9d04-16df512f4192:Utility:Utility
